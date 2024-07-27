@@ -1,0 +1,26 @@
+{
+	"geode": "3.3.0",
+	"gd": {
+		"win": "2.206",
+		"android": "2.206",
+		"mac": "2.206",
+		"ios": "2.206"
+	},
+	"platform": ["win", "android"],
+	"id": "rya_ryzzica.gauntlets_position_fix",
+	"name": "Gauntlets Position Fix",
+	"version": "v1.0.0",
+	"developer": "Rya Ryzzica",
+	"description": "Fixes the positioning for Gauntlet entries.",
+	"repository": "https://github.com/MathieuAR-GDPSFH/Geode-GauntletsPositionFix",
+	"dependencies": [
+        {
+            "id": "geode.node-ids",
+            "version": ">=v1.13.1",
+            "importance": "required"
+        }
+	],
+	"tags": [
+		"enhancement"
+	]
+}
